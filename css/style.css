@@ -1,0 +1,66 @@
+body{
+    padding:20px;
+    padding-top: 50px;
+}
+.nav-item  a:hover{
+    color:red;
+}
+
+
+.bgimg{
+    background-image: url('../img/main.gif');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 500px;
+}
+
+.headerset{
+    color: black;
+    padding-top:200px;
+    box-sizing: border-box;
+}
+
+.why{
+    padding-top: 220px; 
+    color: black;
+}
+
+.client{
+    padding-top: 100px; 
+    color: black;
+}
+
+footer{
+    padding-top: 100px; 
+    
+}
+
+ 
+
+
+h1 {
+    margin-bottom: 40px;
+}
+
+label {
+    color: #333;
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px;
+    }
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+
+}
+
+.card{
+	margin-left: 10px;
+	margin-right: 10px;
+}
